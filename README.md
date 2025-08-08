@@ -12,6 +12,7 @@ Wind-Turbine-Power-Forecasting-with-LSTM/
 │  
 ├── LSTM.ipynb                 # Main Jupyter Notebook with all code and outputs  
 ├── LSTM.py                    # Python script version of the notebook   
+├── Wind Turbine Power Forecasting with LSTM.docx                    # Project result file for different window sizes 
 ├── LICENCE                    # Project license file  
 └── README.md                  # Project documentation  
 
