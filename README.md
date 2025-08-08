@@ -16,7 +16,7 @@ Wind-Turbine-Power-Forecasting-with-LSTM/
 └── README.md                  # Project documentation  
 
 ---
-## 📊 Datase
+## 📊 Dataset
 
 - Source: Kaggle - Wind Turbine SCADA Dataset  
 - License: CC0: Public Domain  
@@ -44,7 +44,8 @@ You can install them manually
 ## 🛠️ Installation & Requirements
 
 1.  Clone this repository
-2. Download the dataset from Kaggle and place it next to LSTM.ipynb or LSTM.py.
+2. Download the dataset from Kaggle: [Wind Power Generation Data Forecasting](https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting)
+3. Place the dataset file in the same directory as LSTM.ipynb or LSTM.py.
 
 ---
 ## 📈 Model
